@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anishchandak7
-- 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently learning backend software development along with Machine Learning
+- 👀 I’m interested in Data related roles (Data Analyst, Data Engineer, Data Scientist, ML Engineer)
 - 💞️ I’m looking to collaborate on Machine Learning Projects/Data Science Projects/Application Development
 - 📫 How to reach me, My LinkedIn - https://www.linkedin.com/in/anish-chandak/
                       My email - chandakanish7@gmail.com
